@@ -17,22 +17,18 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
 [Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
 
-
 ## Systems
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to Operating Systems](https://imp.i115008.net/introduction-to-operating-systems)| Georgia Tech | 8 weeks | 5-8 hours/week | self-paced | Build a Modern Computer from First Principles: From Nand to Tetris II
 
-
 ## Applications
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBCx | 6 weeks | 8-10 hours/week | self-paced | Java Programming: Build a Recommendation System
-[Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) | Stanford | 11 weeks | 5-7 hours/week | twice a month | Linear Algebra - Foundations to Frontiers
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
-[Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
 
 ## Unix
 
