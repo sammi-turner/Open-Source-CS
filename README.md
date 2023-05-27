@@ -12,9 +12,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
+[Pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
 
 ## Systems
