@@ -1,9 +1,5 @@
 # Open Source Computer Science Resources
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton. 
-
-Dead links are periodically removed.
-
 ## Computer Science Basics
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
