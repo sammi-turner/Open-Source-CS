@@ -26,7 +26,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Computer Science: Algorithms, Theory, and Machines](https://imp.i384100.net/7mVROr) | Princeton | 10 weeks | 2-5 hours/week | once a month | Calculus 1A (all), basic programming
+[Computer Science: Algorithms, Theory, and Machines](https://imp.i384100.net/7mVROr) | Princeton | 10 weeks | 2-5 hours/week | once a month | Basic knowledge of calculus and programming
 [Algorithms, Part I](https://imp.i384100.net/DVm9eo) | Princeton | 6 weeks | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines
 [Algorithms, Part II](https://imp.i384100.net/jW4xyv) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I
 
