@@ -34,21 +34,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 <br>
 
-## Theory
-
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Computer Science: Algorithms, Theory, and Machines](https://imp.i384100.net/7mVROr) | Princeton | 10 weeks | 2-5 hours/week | once a month | Calculus 1A (all), basic programming
-[Algorithms, Part I](https://imp.i384100.net/DVm9eo) | Princeton | 6 weeks | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines
-[Algorithms, Part II](https://imp.i384100.net/jW4xyv) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I
-
-<br>
-
 ## Applications
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBCx | 6 weeks | 8-10 hours/week | self-paced | Java Programming: Build a Recommendation System
 [Machine Learning](https://imp.i384100.net/YgYEBJ) | Stanford | 11 weeks | 5-7 hours/week | twice a month | Linear Algebra - Foundations to Frontiers
 [Database Management Essentials](https://imp.i384100.net/kjvDMn) | CU | 7 weeks | 4-6 hours/week | twice a month | basic programming & CS knowledge
 [Cryptography I](https://imp.i384100.net/DVm9ej)| Stanford | 7 weeks | 5 hours/week | once a month | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
