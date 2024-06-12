@@ -67,3 +67,5 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://www.classcentral.com/course/udacity-linux-command-line-basics-4049) | Udacity | 1 week | 5 hours/week | self-paced | none
 [The Unix Workbench](https://imp.i384100.net/QOXZ4P) | JHU | 4 weeks | 4 hours/week | once a month | none
+
+<br>
