@@ -30,7 +30,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 <br>
 
-## Math
+## Mathematics
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
