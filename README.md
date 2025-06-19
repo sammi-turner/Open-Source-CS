@@ -20,8 +20,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Java Programming: Solving Problems with Software](https://imp.i384100.net/GjkPGV)| Duke | 4 weeks | 4-8 hours/week | twice a month | none
 [Java Programming: Arrays, Lists, and Structured Data](https://imp.i384100.net/15knRR)| Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Solving Problems with Software
-[Object Oriented Programming in Java](https://imp.i384100.net/ZdznBq)| Duke | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data
-[Data Structures and Performance](https://imp.i384100.net/oevm0b)| Duke | 6 weeks | 6-10 hours/week | every week | Object Oriented Programming in Java
+[Object Oriented Programming in Java](https://imp.i384100.net/ZdznBq)| UC San Diego | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data
+[Data Structures and Performance](https://imp.i384100.net/oevm0b)| UC San Diego | 6 weeks | 6-10 hours/week | every week | Object Oriented Programming in Java
 [Java Programming: Principles of Software Design](https://imp.i384100.net/zavZrO) | Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Arrays, Lists, and Structured Data
 [Java Programming: Build a Recommendation System](https://imp.i384100.net/n1vro6) | Duke | 4 weeks | 3-6 hours/week | once a month | Java Programming: Principles of Software Design
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | UW | 5 weeks | 8-16 hours/week | once a month | Object Oriented Programming in Java
